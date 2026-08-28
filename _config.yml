@@ -6,6 +6,8 @@ baseurl: ""
 # Build settings
 encoding: UTF-8
 
+is_individual_submissions_open: false
+
 # Files/dirs that should not be copied into the built site
 exclude:
   - README.md
